@@ -8,7 +8,7 @@ const insca = document.getElementById("insca");
 const tete = document.getElementById("tete");
 document.addEventListener("DOMContentLoaded", function() {
 tete.textContent = "Bienvenue sur la page des annonces";
-title.textContent ="Liste des annonces -AdnUSer";
+title.textContent ="Liste des annonces -AdnUser";
 
 btn.addEventListener("click", function() {
             insca.style.display = "none"; 
@@ -16,8 +16,8 @@ btn.addEventListener("click", function() {
             insc.style.display = "block";
             tete.textContent = "Bienvenue sur la page d'ajout d'annonce";
             btna.style.display = "block";
-            title.textContent ="Ajouter une annonce -AdnUSer";
-        
+            title.textContent ="Ajouter une annonce -AdnUser";
+
 
 
 });
@@ -28,7 +28,7 @@ btna.addEventListener("click", function() {
         insca.style.display = "block";
         tete.textContent = "Bienvenue sur la page des annonces";
         btn.style.display = "block";
-        title.textContent ="Liste des annonces -AdnUSer";
+        title.textContent ="Liste des annonces -AdnUser";
 
 });
 

@@ -3,7 +3,7 @@ const title = document.getElementById("title");
  const tete = document.getElementById('tete');
 
 document.addEventListener("DOMContentLoaded", function() {
-title.textContent ="Liste des utilisateurs";
+title.textContent ="Liste des utilisateurs -AdnUser";
 tete.textContent = "Bienvenue sur la page des Utilisateurs";
 
 btn.addEventListener("click", function() {

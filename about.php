@@ -212,8 +212,11 @@
 
 <script>
   const tete = document.getElementById('tete');
+  const title = document.getElementById("title");
+
   document.addEventListener('DOMContentLoaded', function() {
     tete.textContent = "En savoir plus sur AdnUser";
+    title.textContent = "À propos de nous - AdnUser";
   });
 </script>
 <!-- N'oubliez pas d'inclure Bootstrap Icons dans votre head.php pour les icônes -->

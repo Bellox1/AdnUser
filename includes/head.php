@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title id="title">Dashboard -AdnUSer</title>
+    <title id="title">Dashboard -AdnUser</title>
     <!-- Bootstrap 5 -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <!-- Bootstrap Icons -->
@@ -18,7 +18,7 @@
     <nav class="sidebar d-flex flex-column position-fixed" id="sidebar">
         <div class="sidebar-header d-flex align-items-center">
             <i class="bi bi-lightning-charge-fill"></i>
-            <span>AdnUSer</span>
+            <span>AdnUser</span>
             <button class="sidebar-toggler d-none d-lg-inline" id="sidebarCollapse" title="Réduire le menu">
                 <i class="bi bi-chevron-double-left"></i>
             </button>

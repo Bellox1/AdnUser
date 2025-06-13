@@ -8,6 +8,7 @@
   <!-- Bootstrap CSS -->
   <link href="../../assets/css/bootstrap.css" rel="stylesheet" />
   <link href="../../assets/icons/bootstrap-icons.css" rel="stylesheet" />
+  <link rel="shortcut icon" href="../../assets/images/logo.png" type="image/x-icon">
 
   <style>
     body {
