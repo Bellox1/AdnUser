@@ -94,11 +94,12 @@ if (
     }
 }
 ?>
-<div>
- <a href="annonces.php" class="btn btn-primary">
-   <i class="bi bi-arrow-left-circle-fill"></i>Retourner à la liste des annonces
+<div class="d-flex mb-3">
+  <a href="annonces.php" class="btn btn-success me-2" id="btn">
+    <i class="bi bi-arrow-left-circle-fill"></i> Retourner à la liste des annonces
   </a>
 </div>
+
 
 <div class="container mt-4">
   <div class="row justify-content-center">

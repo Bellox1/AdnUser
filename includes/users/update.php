@@ -54,6 +54,12 @@ if (
 }
 ?>
 
+<div class="d-flex mb-3">
+  <a href="users.php" class="btn btn-success me-2" id="btn">
+    <i class="bi bi-arrow-left-circle-fill"></i> Retourner à la liste des utilisateurs
+  </a>
+</div>
+
 <div class="container mt-4">
   <div class="row justify-content-center">
     <div class="col-md-6 col-lg-5 col-12">

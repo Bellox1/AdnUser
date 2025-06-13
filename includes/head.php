@@ -48,7 +48,14 @@
                     <span>Annonces</span>
                 </a>
             </li>
+            <li class="nav-item">
+                <a href="about.php" class="nav-link <?php echo ($currentPage === 'about.php') ? 'active' : ''; ?>">
+                    <i class="bi bi-info-circle"></i>
+                    <span>À propos</span>
+                </a>
+            </li>
         </ul>
+        
     </nav>
 
     <div class="overlay" id="sidebarOverlay"></div>
@@ -60,7 +67,7 @@
             <button class="btn-burger d-lg-none" id="sidebarMobileBtn" title="Menu">
                 <i class="bi bi-list"></i>
             </button>
-            <h1 class="h5 mb-0">Bienvenue sur le Dashboard</h1>
+            <h1 class="h5 mb-0" id="tete"></h1>
             <div class="user-info">
                 <img src="assets/images/avatar.jpeg" alt="Avatar">
                 <span> <?php if (isset($_SESSION['user'])) {echo htmlspecialchars($_SESSION['user']['nom'] . ' ' . $_SESSION['user']['prenom']);} else {echo "Admin";}?></span>
@@ -69,4 +76,3 @@
         </header>
         <main class="container py-4" id="dashboard-content">
             <div class="row g-4">
-        

@@ -28,3 +28,4 @@ form.addEventListener("submit", function(evenement) {
   validMot_de_passe_C(evenement)
   validAge(evenement)
 });
+

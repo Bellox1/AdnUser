@@ -37,7 +37,7 @@
                             <!-- Actions -->
                             <div class="mt-auto d-flex justify-content-end gap-2">
                                 <a href="update_annonce.php?id=<?php echo $annonce['id']; ?>" 
-                                   class="btn btn-outline-light btn-sm rounded-1 px-3">
+                                   class="btn btn-outline-light btn-sm rounded-1 px-3" id="update">
                                     <i class="bi bi-pencil me-1"></i> Modifier
                                 </a>
                                 <a href="includes/annonces/delete.php?id=<?php echo $annonce['id']; ?>"

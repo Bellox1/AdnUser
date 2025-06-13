@@ -73,7 +73,9 @@
   </style>
 </head>
 <body>
+ 
   <div class="register-card">
+
     <div class="logo mb-3">
             <img src="../../assets/images/logo.png" alt="Logo" style="width: 50px; height: 50px;">
     </div>
@@ -115,7 +117,13 @@
         </div>
         <span id="errorI" class="text-danger small"></span>
       </div>
-
+       <div>
+    <?php if (isset($_GET['error']) && $_GET['error'] == 'identifiant_exists'): ?>
+      <div class="alert alert-danger text-center mb-3">
+        L'identifiant existe déjà. Veuillez en choisir autre.
+      </div>
+    <?php endif; ?>
+  </div>
       <div class="mb-2">
         <label for="mot_de_passe" class="form-label">Mot de passe :</label>
         <div class="input-group">
