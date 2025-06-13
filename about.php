@@ -78,7 +78,7 @@
             <!-- Mohammed -->
             <div class="col-md-6 col-lg-3">
                 <div class="card h-100 border-0 shadow-sm team-card">
-                    <img src="assets/images/salou.jpg" class="card-img-top" alt="Mr SALOU Mohammed">
+                    <img src="assets/images/profil.jpg" class="card-img-top" alt="Mr SALOU Mohammed">
                     <div class="card-body text-center">
                         <h5 class="card-title fw-bold text-primary">Mr SALOU Mohammed</h5>
                         <h6 class="text-muted mb-2">Architecte Logiciel</h6>
@@ -89,7 +89,7 @@
             <!-- Denise -->
             <div class="col-md-6 col-lg-3">
                 <div class="card h-100 border-0 shadow-sm team-card">
-                    <img src="assets/images/damasso.jpg" class="card-img-top" alt="Mme Damosso Denise">
+                    <img src="assets/images/profil.jpg" class="card-img-top" alt="Mme Damosso Denise">
                     <div class="card-body text-center">
                         <h5 class="card-title fw-bold text-primary">Mme Damasso Denise</h5>
                         <h6 class="text-muted mb-2">Architecte Logiciel</h6>
@@ -100,7 +100,7 @@
             <!-- BELLO -->
             <div class="col-md-6 col-lg-3">
                 <div class="card h-100 border-0 shadow-sm team-card">
-                    <img src="assets/images/bello.jpg" class="card-img-top" alt="Mr BELLO Matinou">
+                    <img src="assets/images/profil.jpg" class="card-img-top" alt="Mr BELLO Matinou">
                     <div class="card-body text-center">
                         <h5 class="card-title fw-bold text-primary">Mr BELLO Matinou</h5>
                         <h6 class="text-muted mb-2">Architecte Logiciel</h6>
@@ -114,7 +114,7 @@
             <!-- Maelle -->
             <div class="col-md-6 col-lg-3">
                 <div class="card h-100 border-0 shadow-sm team-card">
-                    <img src="assets/images/degan.jpg" class="card-img-top" alt="Mme DEGAN Maelle">
+                    <img src="assets/images/profil.jpg" class="card-img-top" alt="Mme DEGAN Maelle">
                     <div class="card-body text-center">
                         <h5 class="card-title fw-bold text-primary">Mme DEGAN Maelle</h5>
                         <h6 class="text-muted mb-2">Architecte Logiciel</h6>
