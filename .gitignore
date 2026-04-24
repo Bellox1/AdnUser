@@ -1,0 +1,6 @@
+includes/annonces/uploads/*
+!includes/annonces/uploads/.gitkeep
+.env
+vendor/
+node_modules/
+*.log
